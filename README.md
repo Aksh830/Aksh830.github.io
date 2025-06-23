@@ -1,11 +1,11 @@
 # Aksh Shah
-##07880321870 | akshshah666@gmail.com | UB2 5QL, London
-##LinkedIn: https://www.linkedin.com/in/akshshah666 | Portfolio: https://aksh830.github.io/
-##P R O F E S S I O N A L S U M M A R Y 
+## 07880321870 | akshshah666@gmail.com | UB2 5QL, London
+## LinkedIn: https://www.linkedin.com/in/akshshah666 | Portfolio: https://aksh830.github.io/
+## P R O F E S S I O N A L S U M M A R Y 
 Analytical and goal-oriented Data Analyst Trainee with practical experience in data analytics, machine learning, and business intelligence tools. Proficient in SQL, Python, and Power BI, with a talent for transforming complex datasets into impactful business solutions. Proven track record of enhancing data accuracy, streamlining processing workflows, and supporting smarter business decisions through interactive dashboards. Adept at developing predictive models that improve performance and known for clear, effective communication with both technical and non-technical audiences
 
  
-##S K I L L S 
+## S K I L L S 
 Areas of Expertise
 •	Data Analysis and Manipulation
 •	Data Modeling and Normalization
@@ -14,14 +14,14 @@ Areas of Expertise
 •	MySQL database administration Script and Automation (Macros, VBA)
  
 
-##Key Skills
+## Key Skills
 •	Advanced Excel Functions (Pivot Tables, IFERROR, VLOOKUP, HLOOKUP, INDEX & MATCH)
 •	SQL (Basic and Advanced Queries, DDL, DML, Joins, Subqueries, Views, Database Security)
 •	Regression, Classification, and Clustering Models
 •	Data Visualization using Power BI, Tableau, and R
  
 
-##Other Skills 
+## Other Skills 
 •	Customer Focus 
 •	Problem Solving 
 •	Time Management 
@@ -33,8 +33,8 @@ Areas of Expertise
 
  
 
-##WORK E X P E R I E N C E 
-###Data Analyst Trainee| IT Skills, United Kingdom |Dec 2024-Current
+## WORK E X P E R I E N C E 
+### Data Analyst Trainee| IT Skills, United Kingdom |Dec 2024-Current
 •	Built interactive Power BI dashboards, speeding up business decision-making processes by 35% through real-time insights.
 •	Automated data preparation and transformation tasks, improving dataset reliability and business insight accuracy by 40%.
 •	Led a project analyzing business models, accelerating strategic decisions by 30% and supporting client expansion into new markets.
@@ -42,7 +42,7 @@ Areas of Expertise
 •	Delivered data-driven insights and strategic recommendations, helping scale operations and increase business growth by 20%.
 •	Improved data accessibility and analytics efficiency by 30% by integrating customer feedback with digital and in-store data sources.
 
-###Customer Service Executive | Ritter Courivaud Ltd., Wembley, London
+### Customer Service Executive | Ritter Courivaud Ltd., Wembley, London
 May 2023 – Current
 •	Resolved 95% of customer queries on first contact, improving customer satisfaction and retention
 •	Streamlined order processing by 40% through efficient coordination via email, calls, and online portals
@@ -53,7 +53,7 @@ May 2023 – Current
 
 
 
-###Supervisor | Smoke & Watch, Greenford, London
+### Supervisor | Smoke & Watch, Greenford, London
 Sep 2022 – May 2023
 •	Reduced stock shortages by 30% through proactive inventory supervision and strategic purchasing
 •	Boosted promotional engagement by 45% by clearly communicating offers to staff and customers
@@ -61,7 +61,7 @@ Sep 2022 – May 2023
 •	Increased customer satisfaction by 35% by consistently delivering high-quality service
 •	Improved financial tracking accuracy by 28% through detailed revenue and profit documentation
 
-##P R O J E C T S
+## P R O J E C T S
 SQL Projects
 Retail-Expansion Data Analysis — Monday Coffee (SQL)
 Built a full end-to-end SQL project to pinpoint the best Indian cities for the company’s first brick-and-mortar cafés.
@@ -78,18 +78,18 @@ Combined source tables with CTEs and indexed joins into a single analytical view
 KPI aggregation: 
 Authored parameterized queries for city-level KPIs—total sales, transactions, unique customers, average order value, product demand, monthly trend, and rating score—leveraging window functions and date logic.
 
-##Power BI Projects
-###Store Sales Dashboard
+## Power BI Projects
+### Store Sales Dashboard
 •	Performed data cleaning to handle missing values, remove duplicates, and standardized formats to ensure accurate and reliable insights, improving accuracy by 15%.
 •	Designed a dashboard with charts and heat maps, reducing analysis time by 40% and boosting sales strategy effectiveness by 15%.
-###Supply Chain Dashboard
+### Supply Chain Dashboard
 •	Upgraded a dashboard with Gantt charts, heat maps, and stacked bar charts, improving delivery efficiency by 20% and reducing supply chain disruptions by 15%.
 •	Added slicers and drill-down functionality, increasing data accessibility and decision-making speed by 30 %.
 
-##E D U C A T I O N 
+## E D U C A T I O N 
 Sep 2021 – Sep 2022
-###MSc in Investment Management (CFA Accredited)| Heriot-Watt University, Edinburgh, United Kingdom
+### MSc in Investment Management (CFA Accredited)| Heriot-Watt University, Edinburgh, United Kingdom
 Jul 2017 – Sep 2020
-###BSc in Mathematics – First Class| Gujarat Arts and Science College, Ahmedabad, India
-![image](https://github.com/user-attachments/assets/1d8f9c42-f370-4975-9ba1-b1397331fafc)
+### BSc in Mathematics – First Class| Gujarat Arts and Science College, Ahmedabad, India
+
 
