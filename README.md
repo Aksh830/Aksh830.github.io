@@ -88,10 +88,9 @@ Sep 2022 – May 2023
 
 ## E D U C A T I O N 
 
-Sep 2021 – Sep 2022
 ### MSc in Investment Management (CFA Accredited)| Heriot-Watt University, Edinburgh, United Kingdom
+Sep 2021 – Sep 2022
 
-Jul 2017 – Sep 2020
 ### BSc in Mathematics – First Class| Gujarat Arts and Science College, Ahmedabad, India
-
+Jul 2017 – Sep 2020
 
