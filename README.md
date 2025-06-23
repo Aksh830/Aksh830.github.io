@@ -1,6 +1,8 @@
 # Aksh Shah
-## 07880321870 | akshshah666@gmail.com | UB2 5QL, London
-## LinkedIn: https://www.linkedin.com/in/akshshah666 | Portfolio: https://aksh830.github.io/
+[GitHub](https://github.com/Aksh830) • 
+[LinkedIn](https://linkedin.com/in/akshshah666) • 
+[Email](mailto:akshshah666@gmail.com)
+
 ## PROFESSIONAL SUMMARY 
 Analytical and goal-oriented Data Analyst Trainee with practical experience in data analytics, machine learning, and business intelligence tools. Proficient in SQL, Python, and Power BI, with a talent for transforming complex datasets into impactful business solutions. Proven track record of enhancing data accuracy, streamlining processing workflows, and supporting smarter business decisions through interactive dashboards. Adept at developing predictive models that improve performance and known for clear, effective communication with both technical and non-technical audiences
 
