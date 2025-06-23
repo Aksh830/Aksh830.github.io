@@ -62,20 +62,20 @@ Sep 2022 – May 2023
 •	Improved financial tracking accuracy by 28% through detailed revenue and profit documentation
 
 ## P R O J E C T S
-### SQL Projects
-Retail-Expansion Data Analysis — Monday Coffee (SQL)
+## SQL Projects
+### Retail-Expansion Data Analysis — Monday Coffee (SQL)
 •Built a full end-to-end SQL project to pinpoint the best Indian cities for the company’s first brick-and-mortar cafés.
 
-Schema design & data load 
+### Schema design & data load 
 •Created customers, products, and sales tables and bulk-loaded 50 k+ rows of 2023-24 e-commerce data.
 
-Data quality automation
+### Data quality automation
 •Wrote validation scripts to surface NULLs, deduplicate customer records (2.3 % found), and flag 1.1 % price × qty vs. total mismatches for correction.
 
-Transformations & integrations 
+### Transformations & integrations 
 •Combined source tables with CTEs and indexed joins into a single analytical view, cutting ad-hoc query time by 60 %.
 
-KPI aggregation: 
+### KPI aggregation: 
 •Authored parameterized queries for city-level KPIs—total sales, transactions, unique customers, average order value, product demand, monthly trend, and rating score—leveraging window functions and date logic.
 
 ## Power BI Projects
