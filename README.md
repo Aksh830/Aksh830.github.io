@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aksh Shah</h1>
-<h3 align="center">Data Analyst | Power BI Developer | SQL Enthusiast</h3>
+<h3 align="center">Data Analyst Trainee | Power BI Developer | SQL Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/Aksh830"><img src="https://img.shields.io/badge/GitHub-Aksh830-181717?style=flat-square&logo=github" /></a>
