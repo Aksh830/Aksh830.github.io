@@ -62,21 +62,21 @@ Sep 2022 – May 2023
 •	Improved financial tracking accuracy by 28% through detailed revenue and profit documentation
 
 ## P R O J E C T S
-SQL Projects
+### SQL Projects
 Retail-Expansion Data Analysis — Monday Coffee (SQL)
-Built a full end-to-end SQL project to pinpoint the best Indian cities for the company’s first brick-and-mortar cafés.
+•Built a full end-to-end SQL project to pinpoint the best Indian cities for the company’s first brick-and-mortar cafés.
 
 Schema design & data load 
-Created customers, products, and sales tables and bulk-loaded 50 k+ rows of 2023-24 e-commerce data.
+•Created customers, products, and sales tables and bulk-loaded 50 k+ rows of 2023-24 e-commerce data.
 
 Data quality automation
-Wrote validation scripts to surface NULLs, deduplicate customer records (2.3 % found), and flag 1.1 % price × qty vs. total mismatches for correction.
+•Wrote validation scripts to surface NULLs, deduplicate customer records (2.3 % found), and flag 1.1 % price × qty vs. total mismatches for correction.
 
 Transformations & integrations 
-Combined source tables with CTEs and indexed joins into a single analytical view, cutting ad-hoc query time by 60 %.
+•Combined source tables with CTEs and indexed joins into a single analytical view, cutting ad-hoc query time by 60 %.
 
 KPI aggregation: 
-Authored parameterized queries for city-level KPIs—total sales, transactions, unique customers, average order value, product demand, monthly trend, and rating score—leveraging window functions and date logic.
+•Authored parameterized queries for city-level KPIs—total sales, transactions, unique customers, average order value, product demand, monthly trend, and rating score—leveraging window functions and date logic.
 
 ## Power BI Projects
 ### Store Sales Dashboard
@@ -87,8 +87,10 @@ Authored parameterized queries for city-level KPIs—total sales, transactions, 
 •	Added slicers and drill-down functionality, increasing data accessibility and decision-making speed by 30 %.
 
 ## E D U C A T I O N 
+
 Sep 2021 – Sep 2022
 ### MSc in Investment Management (CFA Accredited)| Heriot-Watt University, Edinburgh, United Kingdom
+
 Jul 2017 – Sep 2020
 ### BSc in Mathematics – First Class| Gujarat Arts and Science College, Ahmedabad, India
 
